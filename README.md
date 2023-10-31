@@ -7,4 +7,4 @@ Obecnie doskonale się w zakresie nowoczesnego CSS-a, a także Selenium i WebDri
 Chętnie pomogę przy dużych i małych projektach na każdym polu, gdzie mogę być pomocny.
 
 
-Znajdź mnie najlepiej przez stronę webunique.pl - to moja strona.
+Znajdź mnie najlepiej przez stronę https://webunique.pl - to moja strona.
